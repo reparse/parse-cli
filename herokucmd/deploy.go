@@ -5,8 +5,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ParsePlatform/parse-cli/parsecli"
-	"github.com/ParsePlatform/parse-cli/webhooks"
+	"./../parsecli"
+	"./../webhooks"
 	"github.com/bgentry/heroku-go"
 	"github.com/facebookgo/stackerr"
 	"github.com/spf13/cobra"

@@ -3,7 +3,7 @@ package herokucmd
 import (
 	"fmt"
 
-	"github.com/ParsePlatform/parse-cli/parsecli"
+	"./../parsecli"
 	"github.com/bgentry/heroku-go"
 	"github.com/facebookgo/stackerr"
 	"github.com/spf13/cobra"

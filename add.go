@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/ParsePlatform/parse-cli/herokucmd"
-	"github.com/ParsePlatform/parse-cli/parsecli"
-	"github.com/ParsePlatform/parse-cli/parsecmd"
+	"./herokucmd"
+	"./parsecli"
+	"./parsecmd"
 	"github.com/facebookgo/stackerr"
 	"github.com/spf13/cobra"
 )

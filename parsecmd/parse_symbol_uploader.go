@@ -12,7 +12,7 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/ParsePlatform/parse-cli/parsecli"
+	"./../parsecli"
 	"github.com/facebookgo/errgroup"
 	"github.com/facebookgo/stackerr"
 )

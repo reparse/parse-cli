@@ -9,7 +9,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/ParsePlatform/parse-cli/parsecli"
+	"./../parsecli"
 	"github.com/facebookgo/errgroup"
 	"github.com/facebookgo/jsonpipe"
 	"github.com/facebookgo/stackerr"

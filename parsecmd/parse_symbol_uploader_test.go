@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ParsePlatform/parse-cli/parsecli"
+	"./../parsecli"
 	"github.com/facebookgo/ensure"
 	"github.com/facebookgo/parse"
 )

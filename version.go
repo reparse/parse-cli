@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ParsePlatform/parse-cli/parsecli"
+	"./parsecli"
 	"github.com/spf13/cobra"
 )
 

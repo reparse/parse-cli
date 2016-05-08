@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/ParsePlatform/parse-cli/parsecli"
+	"./parsecli"
 	"github.com/facebookgo/stackerr"
 )
 

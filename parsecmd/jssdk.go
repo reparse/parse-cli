@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"sort"
 
-	"github.com/ParsePlatform/parse-cli/parsecli"
+	"./../parsecli"
 	"github.com/facebookgo/stackerr"
 	"github.com/spf13/cobra"
 )

@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"runtime"
 
-	"github.com/ParsePlatform/parse-cli/parsecli"
+	"./parsecli"
 	"github.com/facebookgo/stackerr"
 	"github.com/inconshreveable/go-update"
 	"github.com/kardianos/osext"

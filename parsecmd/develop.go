@@ -5,7 +5,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/ParsePlatform/parse-cli/parsecli"
+	"./../parsecli"
 	"github.com/spf13/cobra"
 )
 
