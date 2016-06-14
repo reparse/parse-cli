@@ -1,0 +1,21 @@
+#!/bin/sh
+go get \
+	github.com/facebookgo/clock\
+	github.com/facebookgo/ensure\
+	github.com/facebookgo/errgroup\
+	github.com/facebookgo/jsonpipe\
+	github.com/facebookgo/parse\
+	github.com/facebookgo/parseignore\
+	github.com/facebookgo/stackerr\
+	github.com/facebookgo/symwalk\
+	github.com/facebookgo/testname\
+	github.com/inconshreveable/go-update\
+	github.com/kardianos/osext\
+	github.com/mitchellh/go-homedir\
+	github.com/skratchdot/open-golang/open\
+	github.com/spf13/cobra\
+	github.com/xrash/smetrics\
+	github.com/DHowett/go-plist\
+	github.com/bgentry/go-netrc/netrc\
+	github.com/bgentry/heroku-go\
+	github.com/bgentry/speakeasy
